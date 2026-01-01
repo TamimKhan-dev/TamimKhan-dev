@@ -19,15 +19,14 @@ Currently focused on strengthening my frontend foundation while growing my backe
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TamimKhan-dev&show_icons=true&theme=dark" />
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TamimKhan-dev&layout=compact&theme=dark&hide_border=true"
+    height="140"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TamimKhan-dev&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamimKhan-dev&layout=compact&theme=dark" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=TamimKhan-dev&theme=dark&hide_border=true" />
 </p>
 
 ---
@@ -56,22 +55,6 @@ Currently focused on strengthening my frontend foundation while growing my backe
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vite,vscode" />
 </p>
-
----
-
-## 📌 Featured Projects
-
-### 📚 Book Heaven
-A modern book platform where users can **add, explore, and review books** with detailed pages, ratings, comments, and smart filters.  
-🔗 Live: *(Add your live link)*  
-🛠️ React, Tailwind CSS, Firebase, REST API
-
----
-
-### 🎓 ScholarStream
-A scholarship management platform that helps students **discover and apply for scholarships** with role-based dashboards, reviews, search, and secure payments.  
-🔗 Live: https://assignment11-starter.web.app  
-🛠️ React, Tailwind CSS, Firebase, Stripe, REST API
 
 ---
 
