@@ -16,6 +16,21 @@ Currently focused on strengthening my frontend foundation while growing my backe
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TamimKhan-dev&show_icons=true&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TamimKhan-dev&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamimKhan-dev&layout=compact&theme=dark" />
+</p>
+
+---
 ## 🧠 Current Activities
 
 - 🌱 Learning **Next.js** (beginner level, actively exploring)
@@ -69,22 +84,6 @@ A scholarship management platform that helps students **discover and apply for s
   <a href="mailto:md.tamim.iq.khan@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TamimKhan-dev&show_icons=true&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TamimKhan-dev&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamimKhan-dev&layout=compact&theme=dark" />
 </p>
 
 ---
