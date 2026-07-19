@@ -1,6 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://i.ibb.co/Df8w7X5j/Abstract-Technology-Profile-Linked-In-Banner.png" alt="Tamim Khan Banner" />
+  <img src="https://res.cloudinary.com/lujtohx9/image/upload/f_auto,q_auto/Abstract_Technology_Profile_LinkedIn_Banner_soxqs4" alt="Tamim Khan Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Tamim Khan</h1>
