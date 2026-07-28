@@ -27,14 +27,14 @@ Currently deep-diving into advanced backend architectures, relational databases,
 
 ## 🛠️ Skills & Technologies
 
-### ⚙️ Backend & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,firebase" />
-</p>
-
 ### 🎨 Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,react,next,tailwind,html,css,framer" />
+</p>
+
+### ⚙️ Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,firebase" />
 </p>
 
 ### 🧰 Tools & Platforms
